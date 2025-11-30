@@ -16,6 +16,20 @@ const Body = () => {
         photoSrc="/avatar-default.png"
         photoAlt="Maks Verkhovynets"
       />
+
+      <ProfileCard
+        name="Viktoria Zhyvchyn"
+        position="Software engineer"
+        photoSrc="/vikaphoto.jpg"
+        photoAlt="Viktoria Zhyvchyn"
+      />
+          
+      <ProfileCard
+          name="Saluk Diana"
+          position="Software engineer"
+          photoSrc="/diana.png"
+          photoAlt="Saluk Diana"
+      />
     </main>
   );
 };

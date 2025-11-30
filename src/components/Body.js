@@ -6,7 +6,7 @@ const Body = () => {
       <ProfileCard
         name="Maksym Kostyshyn"
         position="Software engineer"
-        photoSrc="/avatar-default.png"
+        photoSrc="/maks.jpg"
         photoAlt="Maksym Kostyshyn"
       />
 

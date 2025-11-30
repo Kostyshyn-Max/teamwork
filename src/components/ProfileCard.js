@@ -15,9 +15,10 @@ const styles = {
   card: {
     width: "150px",
     padding: "1em",
-    borderRadius: "10px",
-    backgroundColor: "#fff",
-    boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+    borderRadius: "0px",          
+    backgroundColor: "#2a2a2a",
+    border: "2px solid #6a0dad", 
+    color: "white",
     textAlign: "center",
     margin: "1em",
     display: "flex",

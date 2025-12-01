@@ -23,6 +23,8 @@ const Body = () => {
         photoSrc="/vikaphoto.jpg"
         photoAlt="Viktoria Zhyvchyn"
       />
+
+      <h1>tttt</h1>
     </main>
   );
 };

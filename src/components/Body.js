@@ -30,6 +30,8 @@ const Body = () => {
           photoSrc="/diana.png"
           photoAlt="Saluk Diana"
       />
+
+      <h1>Test header</h1>
     </main>
   );
 };
